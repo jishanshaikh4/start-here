@@ -1,0 +1,15 @@
+/home/cpp23g/dotnet-starter/MyApp/bin/Debug/net6.0/MyApp
+/home/cpp23g/dotnet-starter/MyApp/bin/Debug/net6.0/MyApp.deps.json
+/home/cpp23g/dotnet-starter/MyApp/bin/Debug/net6.0/MyApp.runtimeconfig.json
+/home/cpp23g/dotnet-starter/MyApp/bin/Debug/net6.0/MyApp.dll
+/home/cpp23g/dotnet-starter/MyApp/bin/Debug/net6.0/MyApp.pdb
+/home/cpp23g/dotnet-starter/MyApp/obj/Debug/net6.0/MyApp.csproj.AssemblyReference.cache
+/home/cpp23g/dotnet-starter/MyApp/obj/Debug/net6.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/cpp23g/dotnet-starter/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfoInputs.cache
+/home/cpp23g/dotnet-starter/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfo.cs
+/home/cpp23g/dotnet-starter/MyApp/obj/Debug/net6.0/MyApp.csproj.CoreCompileInputs.cache
+/home/cpp23g/dotnet-starter/MyApp/obj/Debug/net6.0/MyApp.dll
+/home/cpp23g/dotnet-starter/MyApp/obj/Debug/net6.0/refint/MyApp.dll
+/home/cpp23g/dotnet-starter/MyApp/obj/Debug/net6.0/MyApp.pdb
+/home/cpp23g/dotnet-starter/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache
+/home/cpp23g/dotnet-starter/MyApp/obj/Debug/net6.0/ref/MyApp.dll
