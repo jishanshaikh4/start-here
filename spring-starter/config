@@ -1,0 +1,27 @@
+// @Author: Jishan Shaikh
+// Created on: May 8, 2022
+// License: MIT
+// https://github.com/jishanshaikh4/start-here/spring-starter/
+
+build: ['gradle', 'maven'],
+language: ['java', 'kotlin', 'groovy'],
+spring-boot-version: '~2.6.7',
+packaging: ['jar', 'war'],
+java-version: ['18', '17', '11', '8'],
+// Remember to edit the dependencies before the build
+// Default dependencies included
+dependencies: [
+	'spring-boot-devtools': latest,
+	'spring-web': latest,
+	'spring-session': latest,
+	'spring-reactive-web': latest,
+	'spring-web-services': latest,
+	'vaadin': latest,
+	'oauth2-client': latest,
+	'jdbc-api': latest,
+	'spring-data-jpa': latest,
+	'spring-data-mongodb': latest,
+	'spring-integration': latest,
+	'spring-rest-docs': latest,
+	'azure-cosmos-db: latest'
+]
