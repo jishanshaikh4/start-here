@@ -9,7 +9,7 @@
 #include <iostream>
 
 static constexpr auto USAGE =
-  R"(Naval Fate.
+    R"(Naval Fate.
 
     Usage:
           naval_fate ship new <name>...
