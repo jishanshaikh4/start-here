@@ -9,7 +9,7 @@
 #include <iostream>
 
 static constexpr auto USAGE =
-    R"(Naval Fate.
+  R"(Naval Fate.
 
     Usage:
           naval_fate ship new <name>...
@@ -38,7 +38,7 @@ int main(int argc, const char **argv)
   }
 
 
-  //Use the default logger (stdout, multi-threaded, colored)
+  // Use the default logger (stdout, multi-threaded, colored)
   spdlog::info("Hello, {}!", "World");
 
   fmt::print("Hello, from {}\n", "{fmt}");
