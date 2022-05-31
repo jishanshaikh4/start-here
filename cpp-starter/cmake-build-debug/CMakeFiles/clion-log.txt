@@ -1,0 +1,13 @@
+/home/cpp23g/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/213.7172.20/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/cpp23g/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/213.7172.20/bin/ninja/linux/ninja -G Ninja /home/cpp23g/cpp_starter-master
+-- ccache found and enabled
+-- Conan: checking conan executable
+CMake Error at cmake-build-debug/conan.cmake:531 (message):
+  Conan executable not found!
+Call Stack (most recent call first):
+  cmake-build-debug/conan.cmake:565 (conan_check)
+  cmake/Conan.cmake:10 (conan_add_remote)
+  CMakeLists.txt:76 (run_conan)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/cpp23g/cpp_starter-master/cmake-build-debug/CMakeFiles/CMakeOutput.log".
